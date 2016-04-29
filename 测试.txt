@@ -12,3 +12,5 @@ $ ./setEnv.sh
 $ ./setZh.sh
 
 $ bash /c/gitcc.sh ab4ea59
+
+ceshi

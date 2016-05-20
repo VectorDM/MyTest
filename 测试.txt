@@ -16,6 +16,5 @@ $ bash /c/gitcc.sh ab4ea59
 $ git config --global core.quotepath false//不能显示中文时
 
 
-ceshi
-
+ceshiok
 test
